@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Axexiety
-//
-//  Created by Dale on 10/28/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
